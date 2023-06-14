@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SocialMedia_Dapper.props" />
+</Project>
